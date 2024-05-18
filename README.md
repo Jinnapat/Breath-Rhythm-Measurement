@@ -1,4 +1,5 @@
 *Introduction*
+
 This repo is the result of the development and implementation of a computer vision system designed to measure patient breathing rates. Using keypoint matching techniques, displacement tracking, and frequency domain analysis, we developed a method to monitor and analyze respiratory patterns. This system employs OpenCV’s goodFeaturesToTrack function to identify keypoints on a QR code placed on the patient's belly, which allows for precise tracking of respiratory movements.
 
 *How to use run*
